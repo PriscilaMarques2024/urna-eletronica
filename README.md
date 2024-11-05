@@ -10,6 +10,6 @@ Utiliza as seguintes tecnologias:
 - Loop de repetição (WHILE)
 - Tipagem de variáveis
 
-## Pr[oximas funcionalidades
+## Proximas funcionalidades
 - [ ] Armazenar resultados me um txt
 - [ ] Mostrar as % de voto por canditado.
